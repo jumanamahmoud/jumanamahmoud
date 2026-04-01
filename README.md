@@ -1,7 +1,7 @@
-<h1> Hello, I am Jomana Mahmoud :laughing: </h1>
+<h1 align="center"> Hello, I am Jomana Mahmoud :butterfly: </h1>
 
 <p align="center">
-  <img src="cat.gif">
+  <img src="cat.gif" width="1000">
 </p>
 
 <h2> About Me </h2>
