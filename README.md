@@ -1,7 +1,7 @@
 <h1> Hello, I am Jomana Mahmoud :laughing: </h1>
 
 <p align="center">
-  <img src="https://github.com/jumanamahmoud/jumanamahmoud/blob/main/kitty.gif" alt="centered gif">
+  <img src="cat.gif">
 </p>
 
 <h2> About Me </h2>
